@@ -28,8 +28,6 @@ The distribution of unigrams is not distinctive across speech acts, with the exc
 ![image](unigrams/S.png)
 3. As expected based on the coding scheme, the Response to Agree (Ra) speech act features phrases of agreement, such as "oh yeah yeah," "right right right," and "makes sense."
 ![image](trigrams/Ra_trigrams.png)
-4. The Propose speech act frequently features the modal verb "could" (e.g. "could go like" and "could come back").
-![image](trigrams/P_trigrams.png) 
 
 # References
 The data analyzed in this repository were collected during the pilot study described in Dr. Katherine Moore's dissertation:
